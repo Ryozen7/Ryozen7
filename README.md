@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Philip Rockyboy Fuentes
-- 👀 I’m interested in Reactjs Web development. More on FrontEnd Development and less Backend Development.
+- 👀 I’m interested in Reactjs Web development. More on FrontEnd Development and less Backend Development. Also, interested in react-native.
 - 🌱 I completed the Udemy Online Course for Complete Web Development in 2021 for two months.
 - 💞️ I’m looking to collaborate on People who have the desire to become a great web developer.
 - 📫 You can reach on +639667715959 or email me at phil.rock1996@gmail.com
